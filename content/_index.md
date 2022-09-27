@@ -29,4 +29,4 @@ If you prefer browsing the contents of this site through a list instead of a gra
 
 ### Ok
 
-- [Phy](Physics/000%20Index.md)
+- [Phy](Physics/010%20Topics/Acceleration.md)
