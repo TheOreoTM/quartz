@@ -11,7 +11,7 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/TheOreoTM/quartz/tree/hugo/content
 enableSemanticSearch: true
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description: School Notes
@@ -20,4 +20,4 @@ links:
   - link_name: Twitter
     link: https://twitter.com/_jzhao
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/TheOreoTM
